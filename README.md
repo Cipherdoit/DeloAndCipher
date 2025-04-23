@@ -1,3 +1,4 @@
+![封面](cover.png)
 # DeloAndCipher
 A signal for forever.
 ## Delo & Cipher
